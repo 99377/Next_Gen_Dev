@@ -84,7 +84,7 @@ If you have any questions or need clarification regarding any of the tasks, feel
 
 ## License
 
-This project is licensed under the []. See the LICENSE file for more details.
+This project is licensed under the MIT. See the LICENSE file for more details.
 
 ---
 
