@@ -1,5 +1,5 @@
 import re
-import long_responses as long
+import Long_responses_for_chatbot as long
 
 
 def message_probability(user_message, recognised_words, single_response=False, required_words=[]):
