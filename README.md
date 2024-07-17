@@ -47,40 +47,43 @@ processing and conversation flow.]
 
 - **Resources**: https://www.codecademy.com/learn/rule-based-chatbots/modules/rule-based-chatbots/cheatsheet#:~:text=Rule%2Dbased%20chatbots%20are%20structured,the%20weather%20is%20like%20outside.
 
-### Task 2: [Task Name]
+### Task 2: [TIC-TAC-TOE AI]
 
-- **Description**: [Brief description of the task]
+- **Description**: [Implement an AI agent that plays the classic game of Tic-Tac-Toe against a human
+player. You can use algorithms like Minimax with or without Alpha-Beta Pruning to make
+the AI player unbeatable. This project will help you understand game theory and basic
+search algorithms.
+]
 - **Objectives**:
-  - [Objective 1]
-  - [Objective 2]
-  - ...
-- **Instructions**: [Step-by-step instructions on what to do]
-- **Resources**: [Links or references to relevant documentation]
-- **Submission**: [How to submit your completed task]
+  - [Fun and play with Computer]
 
-### Task 3: [Task Name]
+- **Resources**: [https://www.sciencebuddies.org/science-fair-projects/project-ideas/ArtificialIntelligence_p013/artificial-intelligence/min-max-tic-tac-toe]
 
-- **Description**: [Brief description of the task]
+
+### Task 3: [RECOMMENDATION SYSTEM]
+
+- **Description**: [A simple recommendation system that suggests items to users based on their
+preferences. You can use techniques like collaborative filtering or content-based filtering to
+recommend movies, books, or products to users.]
 - **Objectives**:
-  - [Objective 1]
-  - [Objective 2]
-  - ...
-- **Instructions**: [Step-by-step instructions on what to do]
-- **Resources**: [Links or references to relevant documentation]
-- **Submission**: [How to submit your completed task]
+  - [Recommendation with your Choice]
+  - [Help and Save Time]
+ 
+- **Resources**: [https://www.tensorflow.org/resources/recommendation-systems]
+
 
 ## Evaluation Criteria
 
 Your submission for each task will be evaluated based on the following criteria:
 
 - [Criteria 1]- Make sure code Run Properly. 
-- [Criteria 2]- Code should be Unique m means Not copied.
+- [Criteria 2]- Code should be Unique means Not copied.
 
 Make sure to thoroughly read through each task's requirements and submit your work accordingly.
 
 ## Contact
 
-If you have any questions or need clarification regarding any of the tasks, feel free to contact us at [email address or contact information].
+If you have any questions or need clarification regarding any of the tasks, feel free to contact us at [alphacode991@gmail.com].
 
 
 Feel free to customize this template with specific details about the internship tasks provided by Next_Gen_Dev. Ensure that all tasks are clearly described with comprehensive instructions and evaluation criteria to guide potential interns effectively.
