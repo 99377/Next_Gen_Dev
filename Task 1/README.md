@@ -64,9 +64,6 @@ You can customize the chatbot by modifying the responses and adding new rules in
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
