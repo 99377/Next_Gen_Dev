@@ -82,10 +82,5 @@ Make sure to thoroughly read through each task's requirements and submit your wo
 
 If you have any questions or need clarification regarding any of the tasks, feel free to contact us at [email address or contact information].
 
-## License
-
-This project is licensed under the MIT. See the LICENSE file for more details.
-
----
 
 Feel free to customize this template with specific details about the internship tasks provided by Next_Gen_Dev. Ensure that all tasks are clearly described with comprehensive instructions and evaluation criteria to guide potential interns effectively.
